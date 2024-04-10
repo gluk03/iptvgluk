@@ -1,16 +1,16 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz,https://bcumedia.pro/epg.xml.gz,https://gw.ottservice.org/epg/download/epg.xml.gz,http://tapitv.com/ttv.xmltv.xml.gz,http://epg.it999.ru/epg.xml.gz,http://1lot.tv/epg/epg.xml"
 
 #EXTINF:-1 tvg-id="penthouse-gold" group-title="TV",Penthouse Gold HD
-http://185.182.193.203:25461/drmohanadelbashir/5773646/44
+http://37.49.225.197:8080/17032/cebaebad/32056
 
 #EXTINF:-1 tvg-id="" tvg-logo="http://epg.it999.ru/img2/2779.png" group-title="TV",Penthouse Reality TV
-http://146.59.54.163/352/index.m3u8
+http://37.49.225.197:8080/17032/cebaebad/296983
 
 #EXTINF:-1 tvg-id="penthouse-quickies" tvg-logo="" group-title="TV",Penthouse Quickies
 http://37.49.225.197:8080/17032/cebaebad/3284
 
 #EXTINF:-1 tvg-id="2776" tvg-logo="http://epg.it999.ru/img2/2776.png" group-title="TV",Penthouse Passion
-http://05293b01.ottolok.net/iptv/5ZBKQAEG9QQXS2/5010/index.m3u8
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/5010/index.m3u8
 
 #EXTINF:-1 tvg-id="playboy-tv" group-title="TV",Playboy TV
 http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/527/index.m3u8
@@ -21,7 +21,7 @@ http://190.11.225.124:5000/live/playboy_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="3211" tvg-logo="http://epg.it999.ru/img2/3211.png" group-title="TV",Playboy Plus
 http://37.49.225.197:8080/17032/cebaebad/14222
 #EXTINF:-1 tvg-id="2014" tvg-logo="http://epg.it999.ru/img2/2014.png" group-title="TV",Playboy USA
-http://185.182.193.203:25461/drmohanadelbashir/5773646/69
+http://37.49.225.197:8080/17032/cebaebad/300141
 
 #EXTINF:-1 tvg-id="private-tv" group-title="TV",Private HD
 http://146.59.54.163/356/index.m3u8
@@ -48,7 +48,7 @@ http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/1064/index.m3u8
 http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/12165/index.m3u8
 
 #EXTINF:-1 tvg-id="babes-tv" group-title="TV",Babes TV
-http://146.59.54.163/354/index.m3u8
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6171/index.m3u8
 
 #EXTINF:-1 tvg-id="vivid-red" group-title="TV",VividRed
 http://146.59.54.163/361/index.m3u8
@@ -77,9 +77,6 @@ http://88.212.7.11/live/test_extasy_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="brazzers-tv-europe" group-title="TV" group-title="TV",Brazzers TV Europe
 http://88.212.7.11/live/test_brazzers_hd_hevc/playlist.m3u8
 
-#EXTINF:-1 tvg-id="brazzers-tv-europe-ru" group-title="TV" group-title="TV",Brazzers TV Europe RU
-http://05293b01.ottolok.net/iptv/5ZBKQAEG9QQXS2/910/index.m3u8
-
 #EXTINF:-1 tvg-id="3150" tvg-logo="http://epg.it999.ru/img2/3150.png" group-title="TV",Brazzers eXXtra
 http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6181/index.m3u8
 
@@ -106,12 +103,6 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 
 #EXTINF:-1 tvg-id="3232" tvg-logo="http://epg.it999.ru/img2/3232.png" group-title="TV", Visit-X 
 http://194.116.150.47:1935/vxtv/live_720p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ytimg.com/vi/TVU-h0yl6rU/maxresdefault.jpg" group-title="TV",PureTaboo
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/17848.ts
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://okteve.com/wp-content/uploads/media/1f397c13f176bf77fb8079b85563902b.jpeg" group-title="TV",Miami TV Mexico
-http://185.182.193.203:25461/drmohanadelbashir/5773646/64883
 
 #EXTINF:-1 tvg-id="3257" tvg-logo="http://epg.it999.ru/img2/3257.png" group-title="TV",XY Plus HD
 http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/12118/index.m3u8
@@ -156,109 +147,82 @@ http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6286/index.m3u8
 http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6287/index.m3u8
 
 #EXTINF:-1 tvg-id="3239" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3239.png",Balkan Erotic
-http://05293b01.ottolok.net/iptv/5ZBKQAEG9QQXS2/6270/index.m3u8
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6270/index.m3u8
 
 #EXTINF:-1 tvg-id="prokoptvporno" tvg-name="prokoptvporno" group-title="TV" tvg-logo="http://klimedia.space/logo/1.png",Prokop TV XXX
-http://158.101.194.132:8888/channel/17d9b4f2/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
+http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/19401/index.m3u8
 
 #EXTINF:-1 tvg-id="3250" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3250.png",Red XXX
 http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6281/index.m3u8
 
 #EXTINF:-1 tvg-id="4939" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4939.png",DORCEL xxx
-http://185.182.193.203:25461/drmohanadelbashir/5773646/64
+http://37.49.225.197:8080/17032/cebaebad/296960
 
 #EXTINF:-1 tvg-id="7743" group-title="TV" tvg-logo="http://epg.it999.ru/img2/7743.png",Beate Uhse.TV
-http://185.182.193.203:25461/drmohanadelbashir/5773646/98
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/12163/index.m3u8
 
 #EXTINF:-1 tvg-id="3167" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3167.png", DUSK
-http://185.182.193.203:25461/drmohanadelbashir/5773646/111
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6198/index.m3u8
 
 #EXTINF:-1 tvg-id="3153" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3153.png", CENTO X CENTO
-http://185.182.193.203:25461/drmohanadelbashir/5773646/64882
-
-#EXTINF:-1 tvg-id="3168" group-title="TV" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=186195;image",Evil Angel
-http://185.182.193.203:25461/drmohanadelbashir/5773646/9525
+http://37.49.225.197:8080/17032/cebaebad/245142
 
 #EXTINF:-1 tvg-id="3244" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3244.png",HOT
-http://185.182.193.203:25461/drmohanadelbashir/5773646/112
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6275/index.m3u8
 
 #EXTINF:-1 tvg-id="3246" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3246.png",Hot Pleasure
-http://185.182.193.203:25461/drmohanadelbashir/5773646/66351
+http://37.49.225.197:8080/17032/cebaebad/291246
 
 #EXTINF:-1 tvg-id="3245" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3245.png",HOT XXL HD
-http://185.182.193.203:25461/drmohanadelbashir/5773646/9612
+http://37.49.225.197:8080/17032/cebaebad/15844
 
 #EXTINF:-1 tvg-id="4930" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4930.png",Leo TV
-http://185.182.193.203:25461/drmohanadelbashir/5773646/65895
+http://37.49.225.197:8080/17032/cebaebad/283826
 
 #EXTINF:-1 tvg-id="4932" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4932.png",Meiden Van Holland Hard 
-http://185.182.193.203:25461/drmohanadelbashir/5773646/9524
-
-#EXTINF:-1 tvg-id="3203" group-title="TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/79/Milf_2017.png/revision/latest?cb=20191219012059&path-prefix=es",Milf TV
-http://185.182.193.203:25461/drmohanadelbashir/5773646/65738
+http://37.49.225.197:8080/17032/cebaebad/3311
 
 #EXTINF:-1 tvg-id="4788" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4788.png",ОХ-АХ HD
 http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/11068/index.m3u8
 
-#EXTINF:-1 tvg-id="shalun" group-title="TV",Шалун HD
-http://185.182.193.203:25461/drmohanadelbashir/5773646/120
-
-#EXTINF:-1 tvg-id="3234" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3234.png",VIXEN 1
-http://185.182.193.203:25461/drmohanadelbashir/5773646/62578
-
-#EXTINF:-1 tvg-id="nuart-tv" group-title="TV",nuart
-http://185.182.193.203:25461/drmohanadelbashir/5773646/73
+#EXTINF:-1 tvg-id="3234" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3234.png",VIXEN
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6265/index.m3u8
 
 #EXTINF:-1 tvg-id="2526" group-title="TV" tvg-logo="http://epg.it999.ru/img/2526.png",FRENCH LOVER TV
-http://185.182.193.203:25461/drmohanadelbashir/5773646/66
-
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://okteve.com/wp-content/uploads/media/1f397c13f176bf77fb8079b85563902b.jpeg",Miami TV
-http://185.182.193.203:25461/drmohanadelbashir/5773646/9304
-
-#EXTINF:-1 tvg-id="passionxxx" group-title="TV",PASSIONE TV
-http://185.182.193.203:25461/drmohanadelbashir/5773646/113
-
-#EXTINF:-1 tvg-id="passionxxx" group-title="TV",PASSIONXXX
-http://185.182.193.203:25461/drmohanadelbashir/5773646/100
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/12124/index.m3u8
 
 #EXTINF:-1 tvg-id="2319" group-title="TV" tvg-logo="http://epg.it999.ru/img2/2319.png"PASSION XXX
 http://37.49.225.197:8080/17032/cebaebad/283040
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=215816;image",PinkO Club
-http://185.182.193.203:25461/drmohanadelbashir/5773646/63156
+http://37.49.225.197:8080/17032/cebaebad/3342
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/reality-kings-tv-us.png",Reality Kings TV
-http://185.182.193.203:25461/drmohanadelbashir/5773646/116
+http://37.49.225.197:8080/17032/cebaebad/383
 
 #EXTINF:-1 tvg-id="7223" group-title="TV"  tvg-logo="http://epg.it999.ru/img/7223.png",DE Lust pur HD
 http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/20024/index.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://st4.depositphotos.com/12141488/22431/v/450/depositphotos_224312268-stock-illustration-scratched-textured-french-amateur-stamp.jpg",French Amateur
-http://185.182.193.203:25461/drmohanadelbashir/5773646/67
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=10816.0;attach=176668;image",Fantazzy TV
 http://37.49.225.197:8080/17032/cebaebad/296374
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://lh3.googleusercontent.com/proxy/EJ5y9O_W8NEsjl-HSB7vfxGlrofhme50JP6mMGrQi6orKrRLOWFRcbG_ZD3qUGo_GQZt-fJqYAMXQQO5_nanpDQ-SQ",Net XXL
-http://185.182.193.203:25461/drmohanadelbashir/5773646/9618
+http://37.49.225.197:8080/17032/cebaebad/3324
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://fontmeme.com/images/set-in-jacoby-black-font-370x140.png",Playhouse
-http://185.182.193.203:25461/drmohanadelbashir/5773646/66350
+http://37.49.225.197:8080/17032/cebaebad/3325
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://pbs.twimg.com/profile_images/1214897087055302656/0vAFhZwg_200x200.jpg",Secret Circle TV
-http://185.182.193.203:25461/drmohanadelbashir/5773646/66353
+http://37.49.225.197:8080/17032/cebaebad/290298
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/Sexation_TV_SI_logo.jpg",SEXATION
-http://185.182.193.203:25461/drmohanadelbashir/5773646/80
+http://37.49.225.197:8080/17032/cebaebad/146437
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=215988;image",X Bizarre
-http://185.182.193.203:25461/drmohanadelbashir/5773646/65897
-
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://giclub.tv/index.php?action=dlattach;topic=12804.0;attach=215988;image",X Desire
-http://185.182.193.203:25461/drmohanadelbashir/5773646/65898
+http://37.49.225.197:8080/17032/cebaebad/3313
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://neotel.mk/wp-content/uploads/2019/08/downloadhgfd.png",X Bunga Bunga
-http://185.182.193.203:25461/drmohanadelbashir/5773646/65899
+http://37.49.225.197:8080/17032/cebaebad/3315
 
 #EXTINF:-1 tvg-id="3253" group-title="TV" tvg-logo="http://epg.it999.ru/img2/3253.png",VENUS 
 http://37.49.225.197:8080/17032/cebaebad/3258
@@ -269,28 +233,19 @@ http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6282/index.m3u
 #EXTINF:-1 tvg-id="4953" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4953.png",EROTIC 1
 http://37.49.225.197:8080/17032/cebaebad/37153
 #EXTINF:-1 tvg-id="4954" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4954.png",EROTIC 2
-http://185.182.193.203:25461/drmohanadelbashir/5773646/141
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6290/index.m3u8
 #EXTINF:-1 tvg-id="4955" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4955.png",EROTIC 3
 http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/12148/index.m3u8
 #EXTINF:-1 tvg-id="4956" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4956.png",EROTIC 4
-http://185.182.193.203:25461/drmohanadelbashir/5773646/142
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6292/index.m3u8
 #EXTINF:-1 tvg-id="4957" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4957.png",EROTIC 5
-http://185.182.193.203:25461/drmohanadelbashir/5773646/143
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/12150/index.m3u8
 #EXTINF:-1 tvg-id="4958" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4958.png",EROTIC 6
-http://185.182.193.203:25461/drmohanadelbashir/5773646/144
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6293/index.m3u8
 #EXTINF:-1 tvg-id="4959" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4959.png",EROTIC 7
-http://185.182.193.203:25461/drmohanadelbashir/5773646/145
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6294/index.m3u8
 #EXTINF:-1 tvg-id="4960" group-title="TV" tvg-logo="http://epg.it999.ru/img2/4960.png",EROTIC 8
-http://185.182.193.203:25461/drmohanadelbashir/5773646/146
-
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://www.techfizzi.com/wp-content/uploads/2021/02/Moviestarplanet-Download-PC-LaptopWindows-1087-MACFree-2021-300x247.png",MovieStar Planet 1
-http://185.182.193.203:25461/drmohanadelbashir/5773646/147
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://www.techfizzi.com/wp-content/uploads/2021/02/Moviestarplanet-Download-PC-LaptopWindows-1087-MACFree-2021-300x247.png",MovieStar Planet  2
-http://185.182.193.203:25461/drmohanadelbashir/5773646/148
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://www.techfizzi.com/wp-content/uploads/2021/02/Moviestarplanet-Download-PC-LaptopWindows-1087-MACFree-2021-300x247.png",MovieStar Planet 3
-http://185.182.193.203:25461/drmohanadelbashir/5773646/149
-#EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://www.techfizzi.com/wp-content/uploads/2021/02/Moviestarplanet-Download-PC-LaptopWindows-1087-MACFree-2021-300x247.png",MovieStar Planet 4
-http://185.182.193.203:25461/drmohanadelbashir/5773646/150
+http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/6295/index.m3u8
 
 #EXTINF:-1 tvg-id="4912" group-title="TV" tvg-logo="http://epg.it999.ru/img/4912.png",Alba XXX HD 1
 http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/12106/index.m3u8
@@ -597,7 +552,7 @@ http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/12119/index.m3u8
 http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/12133/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="Live" tvg-logo="https://1.bp.blogspot.com/--Wx4wAh04pU/YO4II49DX7I/AAAAAAAAL-0/CVlFV8BuA84f2TOQV4j7KHTHTN8mcjD7QCLcBGAsYHQ/21%2BNaturals%2BLogo%2B%25282%2529.jpg",21 Naturals
-http://05293b01.ottolok.net/iptv/5ZBKQAEG9QQXS2/6164/index.m3u8
+http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/12205/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://t4.ftcdn.net/jpg/01/32/70/03/360_F_132700317_j5ZLTeStlyO2xQ9VhUZh1tFCXIeKfcAE.jpg",XXX Love's Berry HD
 http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/14140/index.m3u8
@@ -606,7 +561,7 @@ http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/14140/index.m3u8
 http://z6fqchkt.rostelekom.xyz/iptv/CQSN3XYHL2BRCL/12120/index.m3u
 
 #EXTINF:-1 tvg-id="" group-title="TV" tvg-logo="https://2.bp.blogspot.com/-ieqex1oNfK0/TjP9BNslEfI/AAAAAAAAAHU/LwPWYQJyifA/s320/sextreme.jpg",SEXTREME TV
-http://sv1.iptvcasa.online:80/cleide12/102030/1530495.ts
+http://37.49.225.197:8080/17032/cebaebad/3309
 
 #EXTINF:-1 tvg-id="" group-title="Live" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlI-MKS5mKlWvEwzQszaNwNg8Dqzx5c4mvriYIQQs64_NJ6etY8TEix0ZkEGSStzoXGaE&usqp=CAU",Legal Porno
 http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/20090/index.m3u8
@@ -615,33 +570,23 @@ http://rhsbjv7k.tvclub.xyz/iptv/84WHFA22FS28HY/20090/index.m3u8
 http://37.49.225.197:8080/17032/cebaebad/297804
 
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://vip.sexhd.pics/media/hardx/emily-willis/amour-pornstar-glamor/emily-willis-4.jpg",Emily Willis
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29366.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://static-eu-cdn.eporner.com/gallery/Bc/z8/TqM5EPtz8Bc/8480561-elsa-jean-18.jpg",Elsa Jean
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29365.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://ero-fox.org/uploads/posts/2021-11/thumbs/1638002181_47.jpg",Adriana Chechik
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29356.ts
+http://cord-cutter.net:8080/7MArer2/382185/160060
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://pornpics.hair/media/naughtyamerica/nicole-aniston-ryan-mclane/tv-blonde-icon/nicole-aniston-ryan-mclane-6.jpg",Nicole Aniston 2
 http://37.49.225.197:8080/17032/cebaebad/300895
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://pornofoto.xyz/uploads/posts/2022-05/1652866423_26-pornofoto-xyz-p-porno-raili-rid-khkhkh-30.jpg",Riley Reid 2
 http://37.49.225.197:8080/17032/cebaebad/300896
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://image3.thematicnews.com/uploads/images/25/28/48/39/2020/03/17/b67ac3b5f3.jpg",Dani Daniels
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29363.ts
+http://cord-cutter.net:8080/7MArer2/382185/160057
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://xxximg.art/ssdimg2/images/2021/01/09/Tessa_Winters_OnlyFans2020_07_17__82068311_090121.jpg",Tessa Winters
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29402.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://ist4-1.filesor.com/pimpandhost.com/1/4/6/0/146081/5/B/v/r/5Bvrd/Brandi%20Love%20-%20143_l.jpg",Brandi Love
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29362.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://i8.vipr.im/th/01365/07mz50hs2xbf.jpg",Autumn Falls
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29361.ts
+http://cord-cutter.net:8080/7MArer2/382185/160096
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://zazzybabes.com/girls/august-ames/august-ames-caught-cheating-106-topless-28965.jpg",August Ames
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29360.ts
+http://cord-cutter.net:8080/7MArer2/382185/160054
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://i.ibb.co/VWGckkS/309-1813857893.jpg",Ariana Marie
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29359.ts
+http://cord-cutter.net:8080/7MArer2/382185/160053
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://megapornx.com/xxx/hot-videos-from-the-best-porn-actress-around-the-globe-5.jpg",Angela White
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29358.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://cdn.erocurves.com/wp-content/uploads/2021/01/30/25.BadoinkVR_Working_Under_Alina.jpg",Alina Lopez
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29357.ts
+http://cord-cutter.net:8080/7MArer2/382185/160052
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://vip.sexhd.pics/media/evilangel/bella-danger/ultra-babes-vip-pass/bella-danger-15.jpg",Abella Danger
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29355.ts
+http://cord-cutter.net:8080/7MArer2/382185/160049
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://cdn.elitebabes.com/content/220357/253472_masonry_400.jpg",Holly Randall
 http://37.49.225.197:8080/17032/cebaebad/300501
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://cdn.sex.com/images/pinporn/2014/09/29/8257744.jpg?width=300",Little Caprice
@@ -650,7 +595,7 @@ http://37.49.225.197:8080/17032/cebaebad/300504
 http://37.49.225.197:8080/17032/cebaebad/297866
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://cdn1.bitchesgirls.com/file/bigtittygothegg-onlyfans-leaks-may-7-2022/57376432256847419927179778254767942274_thumbnail.jpg",PORNBOX BigTittyGothEgg
 http://37.49.225.197:8080/17032/cebaebad/298668
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://thumb-p0.xhcdn.com/a/d9JxUxJo-Y2lcbvfk6LnPA/000/411/405/330_1000.jpg",Cherry Grace
+#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://thumb-p0.xhcdn.com/a/d9JxUxJo-Y2lcbvfk6LnPA/000/411/405/330_1000.jpg",Cherry Grace-
 http://37.49.225.197:8080/17032/cebaebad/297844
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://brazzers-porno.com/uploads/posts/2023-09/1694341096_brazzers-porno-com-p-erotika-devushki-brazzers-60.jpg",Madison Ivy
 http://37.49.225.197:8080/17032/cebaebad/300894
@@ -688,32 +633,20 @@ http://37.49.225.197:8080/17032/cebaebad/298675
 http://37.49.225.197:8080/17032/cebaebad/297886
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://perdos.link/files/photo/2015/12/P4760/tumbnail-78957.jpg",Mia Malkova
 http://37.49.225.197:8080/17032/cebaebad/297892
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://img4.hotnessrater.com/6319131/dani-nude.jpg?w=500&amp;h=750",Danni Jensen
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29364.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://i2.eastcontent.com/images/pornpictures.pro/45/350_twat_alluring.jpg",Eva Lovia
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29367.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://www.k2s.club/uploads/posts/2020-01/1577863447_7371.neljzya_fullhd_1080_.jpg",Gina Valentina
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29368.ts
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://static-eu-cdn.eporner.com/gallery/rR/TL/66zrzdZTLrR/11786359-77757391-033-b84e_296x1000.jpg",Jessa Rhodes
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29370.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://teengirlserotica.com/naughtyamerica/wp-content/uploads/sites/17/nggallery/lana-rhoades/lana-rhoades9.jpg",Lana Rhoades
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29371.ts
+http://cord-cutter.net:8080/7MArer2/382185/160064
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://imgdist.net/p/q2/fO/ZCm/pic20.jpg?op=fit&width=300&height=600",Lena Paul
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29372.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://fappeningbook.com/photos/e/m/emanovak/1000/25.jpg",Alice Redlips
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29380.ts
+http://cord-cutter.net:8080/7MArer2/382185/160066
+#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://sslkn.fun/contents/models/5476/s1_CarlaCute.jpg",Carla Cute
+http://cord-cutter.net:8080/7MArer2/382185/160074
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://poimel.site/uploads/adult_actors/2020-09/QIuyOsSl9r4M.jpg",Fiamurr
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29386.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://sliv-god.com/wp-content/uploads/2021/12/watermark-47-22.jpg",LuxuryGirl
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29389.ts
+http://cord-cutter.net:8080/7MArer2/382185/160080
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://ei.phncdn.com/pics/albums/040/698/621/505093741/(m=bJ4hdaaecac)(mh=vzzxnR6LFfw6bYv4)original_505093741.jpg",Nyna Ferragni
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29395.ts
+http://cord-cutter.net:8080/7MArer2/382185/160089
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://fastpic.org/view/116/2021/1216/b9f00486f454cc3ccc1e786d551f3216.jpg.html",Purple Bitch
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29396.ts
-#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://cdn.fishki.net/upload/post/2020/12/02/3489253/97d37ccbf2f93261ef477d231fcade0b.jpg",Reislin
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29397.ts
+http://cord-cutter.net:8080/7MArer2/382185/160090
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://24warez.ru/uploads/posts/2019-09/thumbs/1569649676_ero-82.jpg",Tinna Angel
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/29403.ts
+http://cord-cutter.net:8080/7MArer2/382185/160097
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://image3.thematicnews.com/uploads/images/25/28/48/39/2020/03/17/b67ac3b5f3.jpg",Dani Daniels
 http://37.49.225.197:8080/17032/cebaebad/299163
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://xxximg.art/ssdimg2/images/2021/01/09/Tessa_Winters_OnlyFans2020_07_17__82068311_090121.jpg",Tessa Winters
@@ -730,6 +663,12 @@ http://37.49.225.197:8080/17032/cebaebad/300881
 http://37.49.225.197:8080/17032/cebaebad/297872
 #EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://hidefporn.ws/uploads/posts/2021-07/1627176839_831_hidefporn_ws.jpg",SecretCrush 
 http://37.49.225.197:8080/17032/cebaebad/300878
+#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://static-eu-cdn.eporner.com/gallery/Bc/z8/TqM5EPtz8Bc/8480561-elsa-jean-18.jpg",Elsa Jean
+http://cord-cutter.net:8080/7MArer2/382185/160059
+#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://models.yaeby.live/contents/models/2078/s1_Shaiden%20Rogue4.jpg",Shaiden Rouge
+http://cord-cutter.net:8080/7MArer2/382185/160093
+#EXTINF:-1 tvg-id="" group-title="Stars" tvg-logo="https://shemaleleaks.com/photos/s/w/sweet-bunnyxxx/1000/sweet-bunnyxxx_0081_thumb.jpg",RealSweetBunny
+http://cord-cutter.net:8080/7MArer2/382185/160095
 
 #EXTINF:-1 tvg-id="" group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Adult_Video_News_logo.svg/1200px-Adult_Video_News_logo.svg.png",Adult 1
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/276
@@ -739,229 +678,6 @@ http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1297
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/468
 #EXTINF:-1 tvg-id="" group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Adult_Video_News_logo.svg/1200px-Adult_Video_News_logo.svg.png",Adult 4
 http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/1298
-
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: 18 YEARS OLD
-http://likea8bitboss.xyz:80/6lives838/4708659213/761104
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: AMATEUR ALLURE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761107
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: ANAL TEEN ANGELS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761108
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: ASSHOLE FEVER
-http://likea8bitboss.xyz:80/6lives838/4708659213/761109
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BABES
-http://likea8bitboss.xyz:80/6lives838/4708659213/761110
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BABES 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761111
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BACKROOM CASTING COUCH
-http://likea8bitboss.xyz:80/6lives838/4708659213/761112
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BAD DADDY POV
-http://likea8bitboss.xyz:80/6lives838/4708659213/761113
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BANG BROS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761114
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BANG BUS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761115
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BANG BUS 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761116
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BANG CASTING
-http://likea8bitboss.xyz:80/6lives838/4708659213/761117
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BEAUTY ANGELS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761118
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BFFS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761119
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BITCH CONFESSIONS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761120
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BLACK IS BETTER
-http://likea8bitboss.xyz:80/6lives838/4708659213/761121
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BLACKED
-http://likea8bitboss.xyz:80/6lives838/4708659213/761122
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BLACKED 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761123
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BLACKS ON BLONDES
-http://likea8bitboss.xyz:80/6lives838/4708659213/761124
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BLACKS ON COUGARS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761125
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BRATTY SIS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761126
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BROWN BUNNIES
-http://likea8bitboss.xyz:80/6lives838/4708659213/761127
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BURNING ANGEL
-http://likea8bitboss.xyz:80/6lives838/4708659213/761128
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: BURNING ANGEL 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761129
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: CASH FOR SEX TAPE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761130
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: CHERRY PIMPS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761131
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: COLOMBIAN FUCK FEST
-http://likea8bitboss.xyz:80/6lives838/4708659213/761132
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: CRAZY ASIAN GF
-http://likea8bitboss.xyz:80/6lives838/4708659213/761133
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: CRAZY COLLEGE GF
-http://likea8bitboss.xyz:80/6lives838/4708659213/761134
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: CZECH AMATEURS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761136
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: DATESLAM
-http://likea8bitboss.xyz:80/6lives838/4708659213/761137
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: DAUGHTER SWAP
-http://likea8bitboss.xyz:80/6lives838/4708659213/761138
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: DAUGHTER SWAP 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761139
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: EXPLOITED COLLEGE GIRLS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761140
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: EXPLOITED COLLEGE GIRLS 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761141
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FACIAL ABUSE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761142
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FACIAL ABUSE 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761143
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FAKE AGENT
-http://likea8bitboss.xyz:80/6lives838/4708659213/761144
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FAKE HOSPITAL
-http://likea8bitboss.xyz:80/6lives838/4708659213/761145
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FAKE TAXI
-http://likea8bitboss.xyz:80/6lives838/4708659213/761146
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FAMILY LUST
-http://likea8bitboss.xyz:80/6lives838/4708659213/761147
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FAMILY STROKES
-http://likea8bitboss.xyz:80/6lives838/4708659213/761148
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FAMILY STROKES 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761149
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FEMALE FAKE TAXI
-http://likea8bitboss.xyz:80/6lives838/4708659213/761150
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FIRST ANAL QUEST
-http://likea8bitboss.xyz:80/6lives838/4708659213/761151
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FIRST ANAL QUEST 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761152
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FITNESS ROOMS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761153
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FUCK STUDIES
-http://likea8bitboss.xyz:80/6lives838/4708659213/761154
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: GANG BANG CREAMPIE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761155
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: GF REVENGE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761156
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: GF REVENGE 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761157
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: GIRLS DO PORN
-http://likea8bitboss.xyz:80/6lives838/4708659213/761158
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: GIRLS DO PORN 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761159
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: GIRLS GONE PINK
-http://likea8bitboss.xyz:80/6lives838/4708659213/761160
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: GIRLS OUT WEST
-http://likea8bitboss.xyz:80/6lives838/4708659213/761161
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: GIRLS OUT WEST 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761162
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: HOUSE OF TABOO
-http://likea8bitboss.xyz:80/6lives838/4708659213/761163
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: HOUSEWIFE 1 ON 1
-http://likea8bitboss.xyz:80/6lives838/4708659213/761164
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: HUSTLER
-http://likea8bitboss.xyz:80/6lives838/4708659213/761165
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: I FUCKED HER FINALLY
-http://likea8bitboss.xyz:80/6lives838/4708659213/761166
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: INNOCENT HIGH
-http://likea8bitboss.xyz:80/6lives838/4708659213/761167
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: INNOCENT HIGH 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761168
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: INTERRACIAL PASS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761169
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: INTERRACIAL PASS 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761170
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: JIM SLIP
-http://likea8bitboss.xyz:80/6lives838/4708659213/761171
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: LATINA SEX TAPES
-http://likea8bitboss.xyz:80/6lives838/4708659213/761172
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: LATINA SEX TAPES 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761173
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MELONE CHALLENGE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761174
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MILF HUNTER
-http://likea8bitboss.xyz:80/6lives838/4708659213/761175
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MOMMYS GIRL
-http://likea8bitboss.xyz:80/6lives838/4708659213/761176
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MY BABYSITTERS CLUB
-http://likea8bitboss.xyz:80/6lives838/4708659213/761177
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MY SISTERS HOT FRIEND
-http://likea8bitboss.xyz:80/6lives838/4708659213/761178
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MY SISTERS HOT FRIEND 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761179
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: NAUGHTY BOOKWORMS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761181
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: ONLY TEEN BJS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761182
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: PENTHOUSE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761183
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: PETITE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761184
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: PORNTUGAL
-http://likea8bitboss.xyz:80/6lives838/4708659213/761185
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: PURE MATURE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761186
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: REAL EX GIRLFRIENDS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761187
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: REAL GIRLS GONE BAD
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/17829.ts
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: REAL SLUT PARTY
-http://likea8bitboss.xyz:80/6lives838/4708659213/761189
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: REAL SLUT PARTY 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761190
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: ROUND AND BROWN
-http://likea8bitboss.xyz:80/6lives838/4708659213/761191
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SEDUCED BY A COUGAR
-http://likea8bitboss.xyz:80/6lives838/4708659213/761192
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SHARE MY BF
-http://likea8bitboss.xyz:80/6lives838/4708659213/761193
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SHARE MY BF 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761194
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SHES A FREAK
-http://likea8bitboss.xyz:80/6lives838/4708659213/761195
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SHES A FREAK 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761196
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SHES NEW
-http://likea8bitboss.xyz:80/6lives838/4708659213/761197
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SHOPLYFTER
-http://likea8bitboss.xyz:80/6lives838/4708659213/761198
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SHOPLYFTER 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761199
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SIS LOVES ME
-http://likea8bitboss.xyz:80/6lives838/4708659213/761200
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SIS LOVES ME 2
-http://likea8bitboss.xyz:80/6lives838/4708659213/761201
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SIS LOVES ME 3
-http://5.182.209.225:8080/live/DcXAefZAXb/M88wXbyGnc/17845.ts
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: STRANDED TEENS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761202
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: TEEN PIES
-http://likea8bitboss.xyz:80/6lives838/4708659213/761204
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: TEENS DO PORN
-http://likea8bitboss.xyz:80/6lives838/4708659213/761205
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: TEENY BLACK
-http://likea8bitboss.xyz:80/6lives838/4708659213/761206
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: TEENY LOVERS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761207
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: THIS GIRL SUCKS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761208
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: UP HER ASSHOLE
-http://likea8bitboss.xyz:80/6lives838/4708659213/761209
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: YOUNG COURTESANS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761210
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MOMS TEACH SEX
-http://likea8bitboss.xyz:80/6lives838/4708659213/761211
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: SCORELAND
-http://likea8bitboss.xyz:80/6lives838/4708659213/761212
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MOMS IN CONTROL
-http://likea8bitboss.xyz:80/6lives838/4708659213/761213
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: FAMILIES TIED
-http://likea8bitboss.xyz:80/6lives838/4708659213/761214
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MILFS LIKE IT BLACK
-http://likea8bitboss.xyz:80/6lives838/4708659213/761215
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: STEP SIBLINGS  CAUGHT
-http://likea8bitboss.xyz:80/6lives838/4708659213/761216
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: HOT CRAZY MESS
-http://likea8bitboss.xyz:80/6lives838/4708659213/761217
-#EXTINF:-1 tvg-id="" group-title="PORN" tvg-logo="https://i.pinimg.com/280x280_RS/77/5f/ba/775fbae5c99860c998487d3c8a5ecd58.jpg",PORN: MY NAUGHTY ALBUM
-http://likea8bitboss.xyz:80/6lives838/4708659213/761218
 
 #EXTINF:-1 tvg-id="" group-title="VIP" tvg-logo="https://img.favpng.com/17/17/16/ticket-stock-photography-royalty-free-png-favpng-vUpxyFHHU9qZW1wCKTU4iv9K1_t.jpg",TRUEANAL
 http://37.49.225.197:8080/17032/cebaebad/300507
@@ -973,9 +689,6 @@ http://37.49.225.197:8080/17032/cebaebad/300911
 http://37.49.225.197:8080/17032/cebaebad/300912
 #EXTINF:-1 tvg-id="" group-title="VIP" tvg-logo="https://img.favpng.com/17/17/16/ticket-stock-photography-royalty-free-png-favpng-vUpxyFHHU9qZW1wCKTU4iv9K1_t.jpg",VIP SOLO
 http://37.49.225.197:8080/17032/cebaebad/300913
-
-#EXTINF:-1 tvg-id="" group-title="Live" tvg-logo="https://escortnolimit.com/fr/wp-content/uploads/2022/09/cropped-girl-sexy-logo-2202.png",Best Porn HD
-http://srv-6-streaming.iptvin.site:8080/best_porn_hd/index.m3u8?token=bd35b75555dbdf9d299d5519c1cbf8b71b9f57d8-10927065312-1705457223-1705414023
 
 #EXTINF:-1 tvg-id="" group-title="RedBox" tvg-logo="https://www.gunjap.net/site/wp-content/uploads/2016/10/8547576_e37455cb-eb3f-4a51-87ae-8189d49b47f3.jpg",RedBox Adult 01
 http://37.49.225.197:8080/17032/cebaebad/300527
@@ -1108,33 +821,6 @@ https://live.redtraffic.net/woman.m3u8
 http://live.adultiptv.net/threesome.m3u8
 #EXTINF:-1 tvg-id="" group-title="Adult TV" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Russian
 http://live.adultiptv.net/russian.m3u8
-
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SCT
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61488
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Adult 1 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/72977
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Adult 2 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61476
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Adult 3 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/72979
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Adult 4 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/72974
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Adult 5 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/72975
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Adult 6 HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/72976
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Adult 7 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61489
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Adult 8 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61525
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Adult 9 HD
-http://2hubs.ddns.net:25461/crAig1s/myG32Vd21@/61478
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",Maxxx 2
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61494
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",SLTV Erotic HD
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/72986
-#EXTINF:-1 tvg-id="" group-title="XXX Adult" tvg-logo="https://brettpodolsky.com/wp-content/uploads/2022/01/Texas-pornography-laws.jpg",CENTO X TV
-http://2hubs.ddns.net:25461/sltv/PVHDRgW4hH/61468
 
 #EXTINF:-1 tvg-id="" group-title="Live" tvg-logo="https://www.razorart.com/wp-content/uploads/2021/02/anal4k_logo.png",ANAL4K
 http://37.49.225.197:8080/17032/cebaebad/298200
